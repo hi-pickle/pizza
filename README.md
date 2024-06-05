@@ -1,4 +1,4 @@
-# ubiquitous-potato
+# Pizza Client
 <line>
 **Instructions for installing and setup:**<br />
 1. Download the mod folder<br />
